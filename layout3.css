@@ -1,0 +1,71 @@
+.center{
+    width: 1250px;
+    height: 100vh;
+    margin: 0 auto;
+}
+header{
+    height: 100px;
+    background-color: #F5ECE1;
+}
+header{
+    display: flex;
+}
+header>.left{
+    width:200px;
+    height: 100px;
+    background-color: #CCCCCC;
+}
+header>.right{
+    width:1050px;
+    height: 100px;
+    background-color: #3B5A42;
+}
+main>.firstlayer{
+    display: flex;
+}
+main>.secondlayer{
+    display: flex;
+}
+.firstlayer>.sc1{
+    width: 700px;
+    height: 190px;
+}
+.firstlayer>.sc1>.up{
+    background-image:url(../week1/Rectangle\ 43.png);
+}
+.firstlayer>.sc1>.down{
+    background-image:url(../week1/Rectangle\ 44.png);
+}
+.firstlayer>.sc2{
+    width:400px;
+    height: 400px;
+    background-image:url(../week1/Rectangle\ 39.png);
+}
+.secondlayer>.sc3{
+    display: flex;
+}
+.sc3>.one{
+    width:150px;
+    height:150px;
+    background-color:#A1B189;
+}
+.sc3>.two{
+    width:150px;
+    height:150px;
+    background-color:#A1B189;
+}
+.sc3>.three{
+    width:150px;
+    height:150px;
+    background-color:#A1B189;
+}
+.secondlayer>.sc4{
+    width: 615px;
+    height: 320px;
+    background-color:#588158;
+}
+footer{
+    width: 1250px;
+    height: 100px;
+    background-color: #334E41;
+}

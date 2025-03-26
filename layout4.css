@@ -1,0 +1,128 @@
+.center{
+    width: 1250px;
+    height: 100vh;
+    margin: 0 auto;
+}
+header{
+    height: 100px;
+    background-color: #F5ECE1;
+}
+header{
+    display: flex;
+}
+header>.left{
+    width:200px;
+    height: 100px;
+    background-color: #EAE9EE;
+}
+header>.right{
+    width:1080px;
+    height: 100px;
+    background-color: #C2C3D6;
+}
+main>.sc1{
+    display: flex;  
+}
+main>.sc1>.first{
+    width: 250px;
+    height: 220px;
+    background-color:#E1E1F5;
+}
+main>.sc1>.second{
+    width: 730px;
+    height: 220px;
+    background-color:#C0C0FB;
+}
+main>.sc1>.third{
+    width: 300px;
+    height: 220px;
+    background-color:#7878D4;
+}
+
+main>.sc2{
+    display: flex;  
+}
+main>.sc2>.fourth{
+    width: 250px;
+    height: 220px;
+    background-color:#E1E1F5;
+}
+main>.sc2>.fifth{
+    width: 280px;
+    height: 220px;
+    background-color:#9999EF;
+}
+main>.sc2>.sixth{
+    width: 750px;
+    height: 220px;
+    background-color:#CACBE4;
+}
+main>.sc3{
+    display: flex;  
+}
+main>.sc3>.First{
+    width: 177px;
+    height: 220px;
+    background-color:#7878D4;
+}
+main>.sc3>.Second{
+    width: 177px;
+    height: 220px;
+    background-color:#353AC2;
+}
+main>.sc3>.Third{
+    width:177px;
+    height: 220px;
+    background-color:#0D1163;
+}
+main>.sc3>.Fourth{
+    width: 750px;
+    height: 242px;
+    background-color:#666CEE;
+}
+main>.sc4{
+    display: flex;  
+}
+main>.sc4>.Fifth{
+    width: 177px;
+    height: 220px;
+    background-color:#7878D4;
+}
+main>.sc4>.Sixth{
+    width: 177px;
+    height: 220px;
+    background-color:#353AC2;
+}
+main>.sc4>.Seventh{
+    width:177px;
+    height: 220px;
+    background-color:#0D1163;
+}
+main>.sc4>.Eighth{
+    width: 371px;
+    height: 198px;
+    background-color:#7D7FA7;
+}
+main>.sc4>.Ninth{
+    width: 372px;
+    height: 198px;
+    background-color:#4C4F8C;
+}
+footer{
+    display: flex;
+}
+footer>.one{
+    width: 200px;
+    height: 100px;
+    background-color: #3A258A;
+}
+footer>.two{
+    width: 880px;
+    height: 100px;
+    background-color: #6469CD;
+}
+footer>.three{
+    width: 200px;
+    height: 100px;
+    background-color: #3A258A;
+}

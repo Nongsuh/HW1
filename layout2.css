@@ -1,0 +1,54 @@
+.center{
+    width: 1250px;
+    height: 100vh;
+    margin: 0 auto;
+}
+header{
+    display: flex;
+}
+header>.left{
+    width:250px;
+    height: 100px;
+    background-color: #54D8DC;
+}
+header>.right{
+    width:1000px;
+    height: 100px;
+    background-color: #86DADC;
+}
+main>.sc1{
+    display:flex;
+}
+.sc1>.first{
+    width: 415px;;
+    height: 880px;
+    background-image:url(../week1/pic1.png);
+}
+.sc1>.second{
+    width: 415px;;
+    height: 880px;
+    background-image:url(../week1/pic2.png);
+}
+.sc1>.third{
+    width: 415px;;
+    height: 880px;
+    background-image:url(../week1/pic3.png);
+}
+footer{
+    display: flex;
+}
+footer>.left2{
+    width: 250px;
+    height: 100px;
+    background-color: #FDE1E0;
+}
+.right2>.up{
+    width: 1000px;
+    height: 50px;
+    background-color: #FECECE;
+}
+.right2>.down{
+    width: 1000px;
+    height: 50px;
+    background-color: #FDB2B5;
+}
